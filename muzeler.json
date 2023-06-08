@@ -1,0 +1,37 @@
+[
+{
+"Adi": "Sadberk Hanım Müzesi",
+"Yer": "Sarıyer",
+"ResimURL": "https://raw.githubusercontent.com/betulranaozer/AndroidFinalProje/main/parsKedisi.jpg",
+},
+
+{
+"Adi": "Pera Müzesi",
+"Yer": "Beyoğlu",
+"ResimURL": "https://raw.githubusercontent.com/betulranaozer/AndroidFinalProje/main/benekliKedi.jpg",
+},
+
+{
+"Adi": "İstanbul Oyuncak Müzesi ",
+"Yer": "Kadıköy",
+"ResimURL": "https://raw.githubusercontent.com/betulranaozer/AndroidFinalProje/karParsı.jpg",
+},
+
+{
+"Adi": "Aşiyan Müzesi",
+"Yer": "Beşiktaş",
+"ResimURL": "https://raw.githubusercontent.com/betulranaozer/AndroidFinalProje/main/jaguar.jpg",
+},
+  
+{  
+"Adi": "Atatürk Müzesi",
+"Yer": "Şişli",
+"ResimURL": "https://raw.githubusercontent.com/betulranaozer/AndroidFinalProje/main/doruVasak.jpg",
+},
+  
+{
+"Adi": "Doğançay Müzesi",
+"Yer": "Beyoğlu",
+"ResimURL": "https://raw.githubusercontent.com/betulranaozer/AndroidFinalProje/main/benekliKedi.jpg",
+}
+]
